@@ -1,0 +1,8 @@
+@media screen and (max-width: 800px) {
+	#cookie-notifier {
+		box-sizing: border-box !important;
+		height: auto !important;
+		line-height: 25px !important;
+		padding: 20px !important;
+	}
+}
